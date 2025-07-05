@@ -76,6 +76,30 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "lsp": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "name": "lsp资源"
+    },
+    "tree": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "森林资源"
+    },
+    "caoliu": {
+      "api": "https://www.caoliuzyw.com/api.php/provide/vod",
+      "name": "草榴资源"
+    },
+    "baiwan": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "百万资源"
+    },
+    "xiaoji": {
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "name": "小鸡资源"
+    },
+    "xibao": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "细胞资源"
     }
   }
 }
